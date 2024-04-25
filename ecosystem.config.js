@@ -5,7 +5,7 @@ module.exports = {
 
   deploy : {
     production : {
-      key:'arya.pm',
+      key:'arya.pem',
       user : 'ubuntu',
       host : '18.170.120.86',
       ref  : 'origin/main',
