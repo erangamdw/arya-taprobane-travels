@@ -7,7 +7,7 @@ module.exports = {
     production : {
       key:'arya.pem',
       user : 'ubuntu',
-      host : '18.170.120.86',
+      host : '13.42.113.181',
       ref  : 'origin/main',
       repo : 'https://github.com/erangamdw/arya-taprobane-travels.git',
       path : 'home/ubuntu',
